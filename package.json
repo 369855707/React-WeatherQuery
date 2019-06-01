@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://369855707.github.io/React-WeatherQuery",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.18.1",
     "bootstrap": "^3.4.1",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
