@@ -1,0 +1,12 @@
+import React, { Component } from 'react'
+
+const Header = () => {
+    return (
+        <div>
+            <h1 className="title-container__title">Weather App </h1>
+            <p className="title-container__subtitle"> Helps you find weather conditions in cities... </p>
+        </div>
+    )
+}
+
+export default Header
